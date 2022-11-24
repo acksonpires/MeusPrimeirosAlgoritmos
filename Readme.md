@@ -1,0 +1,1 @@
+Este programa recebe os nomes dos alunos e as notas que eles tiraram numa prova, compara todas as notas e, no final, mostra o nome e a nota do aluno que obteve a maior nota.
